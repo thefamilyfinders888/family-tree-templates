@@ -2,7 +2,7 @@
 12 Beautiful Family Tree Templates from The Family Finders DNA MatchMe App and Website
 MIT License
 
-Copyright (c) 2025 [Your Name]
+Copyright (c) 2025 TheFamilyFinders.com and The Family Finders DNA MatchMe App
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
